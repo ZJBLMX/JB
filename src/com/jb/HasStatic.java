@@ -1,6 +1,7 @@
 package com.jb;
 
 public class HasStatic {
+	private int i;
 	/*private static int x=100;
 	public static void main(String[] args) {
 		HasStatic hs1=new HasStatic();
